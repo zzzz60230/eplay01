@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_newsMain" value="name:idNo;datatype:int,name:type;datatype:string,name:title;datatype:string,name:content;datatype:blob,name:NO1;datatype:string,name:NO2;datatype:string,name:NO3;datatype:string,name:NO4;datatype:string,name:NO5;datatype:string,name:NO6;datatype:string,name:NO7;datatype:string,name:NO8;datatype:string,name:postDate;datatype:timestamp,name:adminName;datatype:string" />
+</info>

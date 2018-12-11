@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_IDtestRec" value="name:memId;datatype:string,name:memPsw;datatype:string,name:memName;datatype:string,name:memEmail;datatype:string,name:memPId;datatype:string,name:memBirthday;datatype:date,name:memSex;datatype:string,name:memTel;datatype:string,name:memAddress;datatype:string,name:memLevel;datatype:string" />
+</info>

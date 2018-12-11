@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_goodsRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:string,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_goodsimgRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:string,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_foodRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_articleRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_preferRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:blob,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_newsRec" value="name:idNo;datatype:int,name:type;datatype:string,name:title;datatype:string,name:content;datatype:blob,name:postDate;datatype:timestamp,name:adminName;datatype:string" />
+</info>

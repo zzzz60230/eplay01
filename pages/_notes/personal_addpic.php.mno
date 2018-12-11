@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_itemRec" value="name:item_id;datatype:int,name:item_name;datatype:string" />
+	<infoitem key="UD_personal_picRec" value="name:memld;datatype:string,name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:string,name:goods_stand;datatype:string,name:goods_long;datatype:string,name:goods_desc;datatype:string,name:goods_tel;datatype:string,name:goods_open;datatype:string,name:goods_web;datatype:string,name:goods_spend;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:goods_img2;datatype:string,name:goods_img3;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_memRec" value="name:memld;datatype:string" />
+</info>

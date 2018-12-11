@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_newsMain" value="name:idNo;datatype:int,name:type;datatype:string,name:title;datatype:string,name:content;datatype:blob,name:postDate;datatype:timestamp,name:adminName;datatype:string" />
+	<infoitem key="UD_memEdit" value="name:memId;datatype:string,name:memPsw;datatype:string,name:memName;datatype:string,name:member_nickname;datatype:blob,name:memEmail;datatype:string,name:memPId;datatype:string,name:memBirthday;datatype:date,name:memSex;datatype:string,name:memTel;datatype:string,name:memAddress;datatype:string,name:memLevel;datatype:string,name:realimage;datatype:string,name:introduce;datatype:blob,name:picture;datatype:string,name:text;datatype:blob" />
+</info>

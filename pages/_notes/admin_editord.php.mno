@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ordermainRec" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_ordmainRec" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_cc" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_ccc" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_Recordset1ccc" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_cccc" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+	<infoitem key="UD_ordsubRec" value="name:sub_no;datatype:int,name:ord_id;datatype:string,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:ord_num;datatype:int,name:ord_sum;datatype:int" />
+</info>

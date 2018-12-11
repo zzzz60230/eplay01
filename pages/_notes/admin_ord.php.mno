@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showordRec" value="name:ord_id;datatype:string,name:ord_name;datatype:string,name:ord_email;datatype:string,name:ord_tel;datatype:string,name:ord_address;datatype:string,name:ord_total;datatype:int,name:ord_date;datatype:timestamp,name:ord_status;datatype:string" />
+</info>

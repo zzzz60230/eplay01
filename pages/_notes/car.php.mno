@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_carRec" value="name:temp_no;datatype:int,name:ord_id;datatype:string,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:ord_num;datatype:int,name:ord_sum;datatype:int" />
+	<infoitem key="UD_showitemRec" value="name:item_id;datatype:int,name:item_name;datatype:string" />
+</info>

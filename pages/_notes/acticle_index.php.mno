@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showitemRec" value="name:item_id;datatype:int,name:item_name;datatype:string" />
+	<infoitem key="UD_showgoodsRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+	<infoitem key="UD_productRec" value="name:goods_no;datatype:int,name:goods_id;datatype:string,name:goods_name;datatype:string,name:goods_price;datatype:int,name:goods_stand;datatype:string,name:goods_desc;datatype:string,name:goods_date;datatype:timestamp,name:goods_img;datatype:string,name:item_id;datatype:int" />
+</info>
